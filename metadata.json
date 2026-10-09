@@ -1,0 +1,6 @@
+{
+  "name": "مناوبتي | مدرسة جيل السلام (1–4)",
+  "description": "نظام متابعة المناوبة الأسبوعية بين الحصص لمدرسة جيل السلام (1–4) - معا نصنع جيلا واعيا لمستقبل أفضل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
